@@ -17,8 +17,8 @@ Mathematics education often relies on rote memorization of six disconnected deri
 
 ## 2. The "Mother Formulas" (The Identity Rooms)
 The core of the rule is built upon the structural symmetry of the identities. We categorize functions into "Rooms":
-1. **$\tan^2 x + 1 = \sec^2 x$** *(Left Base: $\tan$, Right Base: $\sec$)*
-2. **$\cot^2 x + 1 = \csc^2 x$** *(Left Base: $\cot$, Right Base: $\csc$)*
+1. **$\tan^2 x + 1 = \sec^2 x$** *(Left Base: $\tan$, Right Base: $\sec$ )*
+2. **$\cot^2 x + 1 = \csc^2 x$** *(Left Base: $\cot$, Right Base: $\csc$ )*
 
 
 
